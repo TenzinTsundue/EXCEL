@@ -28,6 +28,6 @@ Google Sheets - Full Course by Freecodecamp
 * Comments
   * Same as note but show who commented it and start a thread
 * Chat
-* Selecting & moving dats
+* Selecting & moving data
   * Ctrl + Space : Select till last row or until a blank row
   * Shift + Space : Select till last column or until a blank column
