@@ -20,3 +20,14 @@ Google Sheets - Full Course by Freecodecamp
 * Sharing files
 * Sharing folders
 * Entering data
+* Importing data
+* Copying & pasting data
+  * Copy and right click -> Paste special
+* Notes
+  * Right click or Insert -> Insert note
+* Comments
+  * Same as note but show who commented it and start a thread
+* Chat
+* Selecting & moving dats
+  * Ctrl + Space : Select till last row or until a blank row
+  * Shift + Space : Select till last column or until a blank column
