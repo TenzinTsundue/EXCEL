@@ -31,3 +31,17 @@ Google Sheets - Full Course by Freecodecamp
 * Selecting & moving data
   * Ctrl + Space : Select till last row or until a blank row
   * Shift + Space : Select till last column or until a blank column
+* Sorting data
+  * If you want to do multiple sort. You have to do backward. First the second layer and then the first layer.
+* Filtering data
+* Filter views
+  * You can save filter view with name and filter
+* Publishing files
+  * You can publish to web to share with other through link of other format or you can embed the sheet.
+* Version history
+  * Keep logs of every change so you could look them up and restore the version too.
+  * Version control like GitHub
+* REPT charts
+  ```
+  =REPT("|",L8)
+  ```
