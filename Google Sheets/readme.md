@@ -45,3 +45,21 @@ Google Sheets - Full Course by Freecodecamp
   ```
   =REPT("|",L8)
   ```
+* Bar charts with table data
+* Bar charts with raw data
+* Grouped bar charts
+* Bar chart with highlighting
+* Pie charts
+* Histograms
+* Line charts
+* Timelines
+* Sparklines
+  ```
+  =SPARKLINE(D2:D18)
+  =SPARKLINE(D2:D18, {"ymin", 0})
+  =SPARKLINE(D2:D18, {"color", "#CC0000"; "linewidth", 2})
+  =SPARKLINE(D2:D18, {"charttype", "winloss"})
+  =SPARKLINE(J2, {"charttype", "bar"; "max", MAX(j$2:J$7)})
+  ```
+* Scatterplots
+* Scatterplots with highlighting
