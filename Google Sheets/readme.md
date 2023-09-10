@@ -63,3 +63,33 @@ Google Sheets - Full Course by Freecodecamp
   ```
 * Scatterplots
 * Scatterplots with highlighting
+* * Automatic charts with Explore
+* Publishing charts
+* Cell references
+  * Relative reference: A1
+  * Absolute reference: $A$1
+    Ctrl + `  (Show formula)
+* Counts, sums, & means
+  ```
+  =COUNT(range) : count the number
+  =COUNTA(range) : count all
+  ```
+* Dates & times
+* Selecting text
+  ```
+  LEN
+  FIND
+  LEFT
+  RIGHT
+  TRIM
+  ```
+* Combining text & data
+  ```
+  &
+  JOIN
+  ```
+* Conditional formatiing
+
+
+  Graphs -> Number
+  Besides, people are good at visual analysis.
