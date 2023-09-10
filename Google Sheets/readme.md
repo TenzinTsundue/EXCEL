@@ -4,8 +4,8 @@ Google Sheets - Full Course by Freecodecamp
 
 * Picture first
 * Anatomy of a spreadsheet
-  * Freeze row or column from view->freeze / fly drawing the thick like
-  * Drag few number and the bottom right corner will show some quick calulations.
+  * Freeze row or column from view->freeze / by dragging the thick line
+  * Drag a few numbers and the bottom right corner will show some quick calculations.
 * Data types
   Number | Proportion | Percentage | Type % | Decrease Decimals | Increase Decimals | Accounting | Financial | Currency | Data | Time | Text | Links | Web data | Formulas | Web images | Local image(floating)
   ```
@@ -13,33 +13,33 @@ Google Sheets - Full Course by Freecodecamp
   =GOOGLEFINANCE("CURRENCY:USDCAD")
   ```
 * Formatting cells
-  * Snap to fit, Double click on the right of the coulmn
+  * Snap to fit, Double-click on the right of the column
   * Text wrapping
 * Tidy data
-  https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html#:~:text=Tidy%20data%20is%20a%20standard,Every%20row%20is%20an%20observation.
+  [Tidy data link to read](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html#:~:text=Tidy%20data%20is%20a%20standard,Every%20row%20is%20an%20observation)
 * Sharing files
 * Sharing folders
 * Entering data
 * Importing data
 * Copying & pasting data
-  * Copy and right click -> Paste special
+  * Copy and right-click -> Paste special
 * Notes
-  * Right click or Insert -> Insert note
+  * Right-click or Insert -> Insert note
 * Comments
-  * Same as note but show who commented it and start a thread
+  * Same as note but show who commented on it and start a thread
 * Chat
 * Selecting & moving data
-  * Ctrl + Space : Select till last row or until a blank row
-  * Shift + Space : Select till last column or until a blank column
+  * Ctrl + Space: Select till the last row or until a blank row
+  * Shift + Space: Select till the last column or until a blank column
 * Sorting data
-  * If you want to do multiple sort. You have to do backward. First the second layer and then the first layer.
+  * If you want to do multiple sort. You have to do it backward. First the second layer and then the first layer.
 * Filtering data
 * Filter views
-  * You can save filter view with name and filter
+  * You can save the filter view with the name and filter
 * Publishing files
-  * You can publish to web to share with other through link of other format or you can embed the sheet.
+  * You can publish to the web to share with others through links of other formats or embed the sheet.
 * Version history
-  * Keep logs of every change so you could look them up and restore the version too.
+  * Keep logs of every change so you can look them up and restore the version.
   * Version control like GitHub
 * REPT charts
   ```
