@@ -14,7 +14,7 @@ Google Sheets - Full Course by Freecodecamp
   ```
 * Formatting cells
   * Snap to fit, Double-click on the right of the column
-  * Text wrapping
+  * Text wrapping, put the text on multiple line for visibility 
 * Tidy data
   [Tidy data link to read](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html#:~:text=Tidy%20data%20is%20a%20standard,Every%20row%20is%20an%20observation)
 * Sharing files
